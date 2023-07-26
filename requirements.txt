@@ -1,0 +1,2 @@
+TIME-python==0.0.4
+pyautogui==0.9.54
